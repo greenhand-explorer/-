@@ -13,7 +13,7 @@ class SetUI(object):
     def __init__(self, weight=880, height=507):
         self.ui_weight = weight
         self.ui_height = height
-        self.title = "不承认资本主义专利制度"
+        self.title = "音乐共享"
         self.ui_root = tk.Tk(className=self.title)
         self.ui_url = tk.StringVar()
         self.ui_var = tk.IntVar()
