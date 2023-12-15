@@ -1,2 +1,3 @@
-# 免费下载音乐
-基于酷我音乐的API，通过歌曲名或歌手名，爬取音乐并下载到本地。
+# Free Music Download
+
+Leveraging the Kuwo Music API to crawl and download music to the local device by song name or artist name.
